@@ -1,0 +1,11 @@
+/* Declarando variaveis para as cores */
+:root{
+    --fundo: #abc4a4;
+    --botao: #afbc88;
+} 
+
+body{
+    background-color: var(--fundo);
+    height: 100dvh;
+    width: 100dvw;
+}
